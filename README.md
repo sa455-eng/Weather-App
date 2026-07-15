@@ -39,10 +39,6 @@ weather-app/
 
 OpenWeather API
 
-## 📸 Screenshot
-
-(Add your app screenshot here)
-
 ## 📈 Future Improvements
 
 - 5-day weather forecast
